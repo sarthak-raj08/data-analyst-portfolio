@@ -12,7 +12,6 @@
 
   <img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business-Intelligence-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -63,66 +62,6 @@ I specialize in:
 
 ---
 
-## 📂 Featured Projects
-
-## 📈 Sales Analysis Dashboard
-
-<img src="YOUR_GIF_LINK_HERE" width="100%" />
-
-### Tools Used:
-Python | Power BI | Excel | Pandas
-
-### Highlights:
-- Revenue trend analysis
-- Profitability insights
-- Product performance analysis
-
----
-
-## 👥 Customer Segmentation
-
-<img src="YOUR_GIF_LINK_HERE" width="100%" />
-
-### Tools Used:
-Python | Machine Learning | Tableau
-
-### Highlights:
-- Customer clustering
-- Behavior analytics
-- Retention strategy insights
-
----
-
-## 🏢 HR Analytics Dashboard
-
-<img src="YOUR_GIF_LINK_HERE" width="100%" />
-
-### Tools Used:
-Power BI | Excel
-
-### Highlights:
-- Employee attrition analysis
-- Department insights
-- Workforce optimization
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak-raj08&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-raj08&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-raj08&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Data Analyst Workflow
 
 ```mermaid
@@ -163,11 +102,11 @@ E --> F[Decision Making]
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sarthak-raj20/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:sarthakraj744@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
